@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfYear", "Assembly-CSharp.csproj", "{B2D4C4EE-27FD-202B-784D-E7F61C6670EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2D4C4EE-27FD-202B-784D-E7F61C6670EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D4C4EE-27FD-202B-784D-E7F61C6670EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D4C4EE-27FD-202B-784D-E7F61C6670EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D4C4EE-27FD-202B-784D-E7F61C6670EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
