@@ -8,7 +8,7 @@ public class move : MonoBehaviour {
 	private float speed_z = 0.0f;
 	private float offs = 3.0f;
 	public float boost;
-	public int vect = 1;
+	public static int vect = 1;
 	private GameObject neww;
 	public GameObject rage;
 	void Start () {
