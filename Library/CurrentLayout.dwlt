@@ -497,13 +497,13 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\1\Documents\gamer\Game
+  m_LastProjectPath: C:\Users\Alexandr\Documents\GitHub\gameofrhronees
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 96240000
-    m_LastClickedID: 9366
-    m_ExpandedIDs: 0000000096240000ae250000b0250000b2250000b4250000b625000000ca9a3bffffff7f
+    m_SelectedIDs: 06250000
+    m_LastClickedID: 9478
+    m_ExpandedIDs: 0000000006250000022600000426000006260000082600000a26000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -531,7 +531,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000096240000ae250000b0250000b2250000b4250000b6250000
+    m_ExpandedIDs: 0000000006250000022600000426000006260000082600000a260000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -647,9 +647,9 @@ MonoBehaviour:
     height: 631
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: e8fbffff00000000
+    m_SelectedIDs: ca250000
+    m_LastClickedID: 9674
+    m_ExpandedIDs: aefbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -699,14 +699,14 @@ MonoBehaviour:
     width: 1352
     height: 631
   m_SceneLighting: 1
-  lastFramingTime: 693.0868966983095
+  lastFramingTime: 22.180581359936888
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 124.52418, y: -2.453155, z: 103.94446}
+    m_Target: {x: -8.15, y: 0, z: -29.06}
     speed: 2
-    m_Value: {x: 124.52418, y: -2.453155, z: 103.94446}
+    m_Value: {x: -8.15, y: 0, z: -29.06}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -729,13 +729,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.12929665, y: -0.64078116, z: 0.11066844, w: -0.7486218}
+    m_Target: {x: 0.10123002, y: 0.768406, z: -0.1255998, w: 0.6192976}
     speed: 2
-    m_Value: {x: 0.12929663, y: 0.6407811, z: -0.110668436, w: 0.74862176}
+    m_Value: {x: 0.10123002, y: 0.768406, z: -0.1255998, w: 0.6192976}
   m_Size:
-    m_Target: 24.687536
+    m_Target: 22
     speed: 2
-    m_Value: 24.687536
+    m_Value: 22
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -745,7 +745,7 @@ MonoBehaviour:
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
   m_LastLockedObject: {fileID: 0}
-  m_ViewIsLockedToObject: 0
+  m_ViewIsLockedToObject: 1
 --- !u!114 &22
 MonoBehaviour:
   m_ObjectHideFlags: 52
